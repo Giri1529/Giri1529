@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Giri%20Dhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K.%20Giri%20Dhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&lines=AI+Transformation+Consultant;Python+%7C+AI%2FML+Engineer;Building+Impactful+Solutions;GenAI+%26+LLM+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&lines=AI+%26+ML+Engineering+Student;Python+Developer+%7C+NLP+Enthusiast;Building+AI-Powered+Solutions;Current+Infosys+Intern" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -13,14 +13,14 @@
 
 <!-- Social Badges with Animation -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/k-giridhar-90197929b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:giridhar.cseai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/K-Giri-Dhar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.geeksforgeeks.org/user/giridhark2026/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=K-Giri-Dhar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -36,21 +36,31 @@
 </div>
 
 ```yaml
-name: Giri Dhar
-role: AI Transformation Consultant @ Tata iQ
-location: India
-current_focus:
-  - Advanced Python & AI/ML
-  - Generative AI & LLM Applications
-  - Building Scalable AI Solutions
+name: K. Giri Dhar
+education: 4th Year B.Tech CSE @ VEMU Institute of Technology
+location: India 🇮🇳
+current_role: AI/ML Intern @ Infosys Springboard
 previous_experience:
   - AI Data Quality Analyst Intern @ Roman Technology
+  
+current_focus:
+  - Advanced Python & AI/ML Development
+  - Natural Language Processing & LLMs
+  - Generative AI Applications
+  - Building Practical AI Solutions for Finance
+
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Problem Solving
-  - Competitive Programming
-motto: "Turning AI concepts into real-world impact 🚀"
+  - Artificial Intelligence & Machine Learning
+  - NLP & Large Language Models
+  - Problem Solving & Competitive Coding
+  - Financial Technology & AI
+
+fun_facts:
+  - 🧩 Love solving coding puzzles on GeeksforGeeks
+  - 🌐 Currently learning Kannada
+  - 🎯 Passionate about applying AI to real-world problems
+
+motto: "Building impactful AI-powered solutions, one project at a time 🚀"
 ```
 
 <div align="center">
@@ -66,25 +76,25 @@ motto: "Turning AI concepts into real-world impact 🚀"
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
 </p>
 
-### **AI/ML & Frameworks**
+### **AI/ML & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### **Tools & Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,git,mysql,vscode,docker" />
-</p>
-
-### **AI & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,git,vscode,mysql" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### **Databases & Vector Stores**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
@@ -123,7 +133,7 @@ motto: "Turning AI concepts into real-world impact 🚀"
 <div align="center">
 
 [![DocuQuery AI](https://github-readme-stats.vercel.app/api/pin/?username=K-Giri-Dhar&repo=docuquery-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/K-Giri-Dhar/docuquery-ai)
-[![Password Validator](https://github-readme-stats.vercel.app/api/pin/?username=K-Giri-Dhar&repo=password-validator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/K-Giri-Dhar/password-validator)
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=K-Giri-Dhar&repo=finance-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/K-Giri-Dhar/finance-tracker)
 
 </div>
 
@@ -132,39 +142,43 @@ motto: "Turning AI concepts into real-world impact 🚀"
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/🤖_DocuQuery_AI-00D9FF?style=for-the-badge"/>
       <br/>
-      <sub>AI-powered document chatbot using Transformers & Vector DBs</sub>
+      <sub><b>AI-Powered Document Intelligence System</b></sub>
+      <br/><br/>
+      <sub>📄 Semantic search & Q&A from PDFs using Hugging Face Transformers</sub>
       <br/>
+      <sub>🎯 Context-aware responses with intelligent fallback handling</sub>
+      <br/>
+      <sub>🔍 Vector database integration for efficient document retrieval</sub>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/NLP-00D9FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat-square"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🔐_Password_Validator-00D9FF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/💰_Finance_Tracker-00D9FF?style=for-the-badge"/>
       <br/>
-      <sub>Secure frontend password validation with API integration</sub>
+      <sub><b>Personal Finance Management Application</b></sub>
+      <br/><br/>
+      <sub>💸 Track income, expenses & bills with smart categorization</sub>
       <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/API-00D9FF?style=flat-square"/>
+      <sub>📊 Interactive data visualization with charts & graphs</sub>
+      <br/>
+      <sub>📈 Spending pattern insights and budget planning tools</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data_Viz-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Analytics-00D9FF?style=flat-square"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/💳_Credit_Risk_AI-00D9FF?style=for-the-badge"/>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/🚀_More_Projects_Coming_Soon-00D9FF?style=for-the-badge"/>
       <br/>
-      <sub>AI/ML + GenAI for credit card delinquency reduction</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/🚀_More_Projects-00D9FF?style=for-the-badge"/>
-      <br/>
-      <sub>Check out my repositories for more exciting projects!</sub>
+      <sub>Exploring more AI/ML applications in NLP, Finance & Real-world Problem Solving</sub>
       <br/>
       <a href="https://github.com/K-Giri-Dhar?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All-181717?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -174,36 +188,83 @@ motto: "Turning AI concepts into real-world impact 🚀"
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect & Collaborate**
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> **Certifications & Achievements**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🏆_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+      <br/>
+      <sub><b>SQL - Basic</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🎓_NPTEL-0056D2?style=for-the-badge"/>
+      <br/>
+      <sub><b>Introduction to IoT</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🐍_Infosys-0047AB?style=for-the-badge&logo=infosys&logoColor=white"/>
+      <br/>
+      <sub><b>Foundation of Python</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🤖_Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <br/>
+      <sub><b>AI Essentials</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🎯_AI_Foundation-00D9FF?style=for-the-badge"/>
+      <br/>
+      <sub><b>AI Foundations Associate</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌟_Infosys-0047AB?style=for-the-badge&logo=infosys&logoColor=white"/>
+      <br/>
+      <sub><b>Springboard Participant</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect With Me**
 
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/k-giridhar-90197929b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:giridhar.cseai@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/K-Giri-Dhar">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR-GFG-PROFILE/">
+  <a href="https://www.geeksforgeeks.org/user/giridhark2026/">
     <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's Build Something Amazing Together!**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Let's Collaborate on AI/ML Projects!**
 
-*Open to collaborations on AI/ML projects, GenAI applications, and innovative tech solutions*
+*Open to opportunities in AI/ML Engineering • NLP • GenAI Applications • Financial Technology*
+
+**"Transforming ideas into intelligent solutions through code"**
 
 </div>
 
