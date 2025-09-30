@@ -22,7 +22,7 @@
   <a href="https://www.geeksforgeeks.org/user/giridhark2026/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=K-Giri-Dhar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Giri1529&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 </div>
@@ -109,17 +109,17 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=K-Giri-Dhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K-Giri-Dhar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Giri1529&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Giri1529&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Giri-Dhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=K-Giri-Dhar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri1529&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Giri1529&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=K-Giri-Dhar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Giri1529&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -132,8 +132,8 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
 
 <div align="center">
 
-[![DocuQuery AI](https://github-readme-stats.vercel.app/api/pin/?username=K-Giri-Dhar&repo=docuquery-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/K-Giri-Dhar/docuquery-ai)
-[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=K-Giri-Dhar&repo=finance-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/K-Giri-Dhar/finance-tracker)
+[![DocuQuery AI](https://github-readme-stats.vercel.app/api/pin/?username=Giri1529&repo=DocuQuery-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Giri1529/DocuQuery-AI)
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Giri1529&repo=Finance-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Giri1529/Finance-Tracker)
 
 </div>
 
@@ -149,6 +149,10 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
       <sub>🎯 Context-aware responses with intelligent fallback handling</sub>
       <br/>
       <sub>🔍 Vector database integration for efficient document retrieval</sub>
+      <br/><br/>
+      <a href="https://github.com/Giri1529/DocuQuery-AI">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -166,6 +170,10 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
       <br/>
       <sub>📈 Spending pattern insights and budget planning tools</sub>
       <br/><br/>
+      <a href="https://github.com/Giri1529/Finance-Tracker">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Data_Viz-FF6B6B?style=flat-square"/>
       <img src="https://img.shields.io/badge/Analytics-00D9FF?style=flat-square"/>
@@ -173,13 +181,34 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/🚀_More_Projects_Coming_Soon-00D9FF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/🎯_Job_Role_Predictor-00D9FF?style=for-the-badge"/>
       <br/>
-      <sub>Exploring more AI/ML applications in NLP, Finance & Real-world Problem Solving</sub>
+      <sub><b>Predicting Job Roles from Educational Background</b></sub>
+      <br/><br/>
+      <sub>🎓 Machine learning model to predict suitable job roles based on educational qualifications</sub>
       <br/>
-      <a href="https://github.com/K-Giri-Dhar?tab=repositories">
-        <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
+      <sub>📊 Data analysis and feature engineering for career path recommendations</sub>
+      <br/>
+      <sub>🤖 ML algorithms for accurate job-education mapping</sub>
+      <br/><br/>
+      <a href="https://github.com/Giri1529/Predicting-Job-Roles-from-Educational-Background">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data_Science-00D9FF?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br/>
+      <a href="https://github.com/Giri1529?tab=repositories">
+        <img src="https://img.shields.io/badge/🚀_Explore_More_Projects-00D9FF?style=for-the-badge"/>
+      </a>
+      <br/>
+      <sub>Check out my other repositories for more AI/ML projects!</sub>
     </td>
   </tr>
 </table>
@@ -244,7 +273,7 @@ motto: "Building impactful AI-powered solutions, one project at a time 🚀"
   <a href="mailto:giridhar.cseai@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/K-Giri-Dhar">
+  <a href="https://github.com/Giri1529">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/giridhark2026/">
