@@ -154,7 +154,7 @@ Intelligent document querying system leveraging AI to extract and analyze inform
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Giri1529/Giri1529/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Giri1529/Giri1529/output/github-contribution-grid-snake.svg)
 
 </div>
 
